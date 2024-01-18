@@ -1,10 +1,131 @@
 {
-  "compilerOptions": {
-    "target": "es2016",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true,
-    "skipLibCheck": true
+  "quiz": {
+    "questions": [
+      {
+        "question": "Quel est le seul fruit à avoir ses graines à l'extérieur ?",
+        "options": ["Pomme", "Fraises", "Banane", "Kiwi"],
+        "answer": "Fraises"
+      },
+      {
+        "question": "Quel est le pays d'origine du sushi ?",
+        "options": ["Chine", "Japon", "Corée", "Thaïlande"],
+        "answer": "Japon"
+      },
+      {
+        "question": "Quel fromage est connu pour être le plus vieux du monde ?",
+        "options": ["Cheddar", "Gouda", "Feta", "Roquefort"],
+        "answer": "Feta"
+      },
+      {
+        "question": "Quel est l'ingrédient principal du houmous ?",
+        "options": ["Avocat", "Pois chiches", "Aubergine", "Tomate"],
+        "answer": "Pois chiches"
+      },
+      {
+        "question": "Quelle cuisine est célèbre pour ses tapas ?",
+        "options": ["Italienne", "Mexicaine", "Espagnole", "Grecque"],
+        "answer": "Espagnole"
+      },
+      {
+        "question": "Quel est le fruit le plus consommé dans le monde ?",
+        "options": ["Pomme", "Banane", "Raisin", "Mangue"],
+        "answer": "Banane"
+      },
+      {
+        "question": "De quel pays est originaire le plat paella ?",
+        "options": ["Mexique", "Espagne", "Italie", "Portugal"],
+        "answer": "Espagne"
+      },
+      {
+        "question": "Quel légume est en réalité un fruit ?",
+        "options": ["Brocoli", "Carotte", "Tomate", "Pois"],
+        "answer": "Tomate"
+      },
+      {
+        "question": "Quel est le pays d'origine de la pizza Margherita ?",
+        "options": ["France", "Italie", "États-Unis", "Grèce"],
+        "answer": "Italie"
+      },
+      {
+        "question": "Le 'curry' est associé à quelle cuisine ?",
+        "options": ["Thaïlandaise", "Indienne", "Chinoise", "Japonaise"],
+        "answer": "Indienne"
+      },
+      {
+        "question": "Quel fruit est connu pour sa teneur élevée en potassium ?",
+        "options": ["Orange", "Pomme", "Banane", "Fraise"],
+        "answer": "Banane"
+      },
+      {
+        "question": "Le wasabi est traditionnellement servi avec quel type de nourriture ?",
+        "options": ["Sushi", "Pizza", "Taco", "Burger"],
+        "answer": "Sushi"
+      },
+      {
+        "question": "Quel fromage est utilisé dans la pizza traditionnelle ?",
+        "options": ["Cheddar", "Gorgonzola", "Mozzarella", "Parmesan"],
+        "answer": "Mozzarella"
+      },
+      {
+        "question": "De quel pays est originaire le plat 'Ratatouille' ?",
+        "options": ["Italie", "France", "Espagne", "Portugal"],
+        "answer": "France"
+      },
+      {
+        "question": "Quel est le principal ingrédient du guacamole ?",
+        "options": ["Tomate", "Poivron", "Avocat", "Citron vert"],
+        "answer": "Avocat"
+      },
+      {
+        "question": "Le 'kimchi' est un plat fermenté traditionnel de quel pays ?",
+        "options": ["Japon", "Chine", "Corée", "Vietnam"],
+        "answer": "Corée"
+      },
+      {
+        "question": "Quelle épice est connue comme 'l'or rouge' ?",
+        "options": ["Curry", "Paprika", "Safran", "Cannelle"],
+        "answer": "Safran"
+      },
+      {
+        "question": "Dans quel pays le 'taco' est-il un plat traditionnel ?",
+        "options": ["Brésil", "Mexique", "Espagne", "Argentine"],
+        "answer": "Mexique"
+      },
+      {
+        "question": "Quel est l'ingrédient principal du 'Pesto' ?",
+        "options": ["Basilic", "Coriandre", "Persil", "Ciboulette"],
+        "answer": "Basilic"
+      },
+      {
+        "question": "Quel est le plat national de l'Inde ?",
+        "options": ["Butter Chicken", "Biryani", "Dal Makhani", "Aucun de ces réponses"],
+        "answer": "Aucun de ces réponses"
+      },
+      {
+        "question": "De quel fruit le 'calvados' est-il distillé ?",
+        "options": ["Raisin", "Pomme", "Cerise", "Poire"],
+        "answer": "Pomme"
+      },
+      {
+        "question": "La 'Moussaka' est un plat traditionnel de quel pays ?",
+        "options": ["Turquie", "Grèce", "Italie", "Espagne"],
+        "answer": "Grèce"
+      },
+      {
+        "question": "Quel est l'ingrédient principal du 'Taboulé' ?",
+        "options": ["Quinoa", "Boulgour", "Riz", "Pâtes"],
+        "answer": "Boulgour"
+      },
+      {
+        "question": "De quel pays est originaire le 'Tiramisu' ?",
+        "options": ["France", "Italie", "Espagne", "Portugal"],
+        "answer": "Italie"
+      },
+      {
+        "question": "Quel est le poisson principal utilisé dans la 'Bouillabaisse' ?",
+        "options": ["Saumon", "Morue", "Thon", "Rascasse"],
+        "answer": "Rascasse"
+      }
+    ]
   }
 }
